@@ -1,4 +1,4 @@
-# Supplementary Resources for the research article: 
+# Supplementary resources for the research article: 
 
 **"The Right Tool for the Job: Matching Active Learning Techniques to Learning Objectives"**
 
