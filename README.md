@@ -6,7 +6,7 @@
 
 \* corresponding author
 
--	Accepted by [2022 Pandemic Pedagogy Research Symposium](https://learninginnovation.duke.edu/blog/portfolio/the-2022-pandemic-pedagogy-research-symposium/): Moving from Innovation to Transformation, Duke University, to be presented online, May 11, 2022.
+-	Accepted by [2022 Pandemic Pedagogy Research Symposium: Moving from Innovation to Transformation](https://learninginnovation.duke.edu/blog/portfolio/the-2022-pandemic-pedagogy-research-symposium/), Duke University, to be presented online, May 11, 2022.
 - Accepted by [TeachEconference 2022](https://ctale.org/teacheconference2022/), University College London and Cornell University, to be presented online, June 27-29, 2022.
 
 
