@@ -24,5 +24,20 @@
 
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="World Cloud: Light">
+</p>
+
+<p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_dark.png" width="600" title="World Cloud: Dark">
+</p>
+
+<p align="left">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure1.png" width="600" title="Figure 1">
+</p>
+
+<p align="left">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure2.png" width="600" title="Figure 2">
+</p>
+
+<p align="left">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure3.png" width="600" title="Figure 3">
 </p>
