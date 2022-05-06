@@ -19,4 +19,8 @@
 | 3 | Figures   | https://github.com/SciEcon/Active_Learning/tree/main/figs|
 
 
-
+## Figures
+<p align="center">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
