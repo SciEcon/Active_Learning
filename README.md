@@ -23,6 +23,6 @@
 
 
 <p align="left">
-  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="World Cloud", Text ="Dark">
-  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_dark.png" width="600" alt="accessibility text">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="World Cloud: Light">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_dark.png" width="600" title="World Cloud: Dark">
 </p>
