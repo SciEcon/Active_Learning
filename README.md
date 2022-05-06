@@ -9,5 +9,14 @@
 -	Accepted by [2022 Pandemic Pedagogy Research Symposium: Moving from Innovation to Transformation](https://learninginnovation.duke.edu/blog/portfolio/the-2022-pandemic-pedagogy-research-symposium/), Duke University, to be presented online, May 11, 2022.
 - Accepted by [TeachEconference 2022](https://ctale.org/teacheconference2022/), University College London and Cornell University, to be presented online, June 27-29, 2022.
 
+## Table of Contents
+
+
+| Number | Type | URL |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 
 
