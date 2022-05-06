@@ -21,23 +21,44 @@
 
 ## Figures
 
+### Word Cloud of Students Responses to the Question “Can you give an example of how these learning
+activities have helped you?”(light version)
 
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="World Cloud: Light">
 </p>
 
+---
+
+### Word Cloud of Students Responses to the Question “Can you give an example of how these learning
+activities have helped you?”(dark version)
+
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_dark.png" width="600" title="World Cloud: Dark">
 </p>
+
+---
+
+### Fig. 1. Reported Engagement and Learning Outcome Effectiveness
 
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure1.png" width="600" title="Figure 1">
 </p>
 
+---
+
+### Fig. 2. Enjoyment of the Teaching Techniques
+
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure2.png" width="600" title="Figure 2">
 </p>
 
+---
+
+### Fig. 3. Rankings of Activities’ Effectiveness in Developing Research Project
+
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/figure3.png" width="600" title="Figure 3">
 </p>
+
+---
