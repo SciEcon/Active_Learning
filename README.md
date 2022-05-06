@@ -14,9 +14,9 @@
 
 | Number | Type | URL |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+|1  | Data      | https://github.com/SciEcon/Active_Learning/tree/main/data |
+| 2 | Code      |https://github.com/SciEcon/Active_Learning/blob/main/The_Right_Tool_for_the_Job_Matching_Active_Learning_Techniques_to_Learning_Objectives.ipynb|
+| 3 | Figures   | https://github.com/SciEcon/Active_Learning/tree/main/figs|
 
 
 
