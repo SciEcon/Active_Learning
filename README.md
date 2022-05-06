@@ -24,3 +24,8 @@
 <p align="left">
   <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="Word Cloud">
 </p>
+
+<p align="left">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="hover text">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_dark.png" width="600" alt="accessibility text">
+</p>
