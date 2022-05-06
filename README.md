@@ -20,6 +20,7 @@
 
 
 ## Figures
-<p align="center">
-  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="hover text">
+
+<p align="left">
+  <img src="https://github.com/SciEcon/Active_Learning/blob/main/figs/wordcloud_light.png" width="600" title="Word Cloud">
 </p>
