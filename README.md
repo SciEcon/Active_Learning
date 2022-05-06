@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/484361746.svg)](https://zenodo.org/badge/latestdoi/484361746)
+
 # Supplementary resources for the research article: 
 
 **"The Right Tool for the Job: Matching Active Learning Techniques to Learning Objectives"**
